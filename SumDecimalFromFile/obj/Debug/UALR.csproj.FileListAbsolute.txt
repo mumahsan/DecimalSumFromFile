@@ -1,0 +1,6 @@
+e:\Projects\UALR\UALR\bin\Debug\UALR.exe.config
+e:\Projects\UALR\UALR\bin\Debug\UALR.exe
+e:\Projects\UALR\UALR\bin\Debug\UALR.pdb
+e:\Projects\UALR\UALR\obj\Debug\UALR.csprojResolveAssemblyReference.cache
+e:\Projects\UALR\UALR\obj\Debug\UALR.exe
+e:\Projects\UALR\UALR\obj\Debug\UALR.pdb

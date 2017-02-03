@@ -1,0 +1,6 @@
+E:\Projects\SumDecimalFromFile\SumDecimalFromFile\bin\Debug\SumDecimalFromFile.exe.config
+E:\Projects\SumDecimalFromFile\SumDecimalFromFile\bin\Debug\SumDecimalFromFile.exe
+E:\Projects\SumDecimalFromFile\SumDecimalFromFile\bin\Debug\SumDecimalFromFile.pdb
+E:\Projects\SumDecimalFromFile\SumDecimalFromFile\obj\Debug\SumDecimalFromFile.csprojResolveAssemblyReference.cache
+E:\Projects\SumDecimalFromFile\SumDecimalFromFile\obj\Debug\SumDecimalFromFile.exe
+E:\Projects\SumDecimalFromFile\SumDecimalFromFile\obj\Debug\SumDecimalFromFile.pdb
